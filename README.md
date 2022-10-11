@@ -17,6 +17,7 @@ The playbooks in this directory make heavy use of a collection from Automation H
 executing the playbooks, install the collection by doing the following:
 
 1. Get a token, and add it to ansible.cfg.
+   https://console.redhat.com/ansible/automation-hub/token
 
 2. Install dependencies, including redhat.satellite:
  
